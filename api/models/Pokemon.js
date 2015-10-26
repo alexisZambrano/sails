@@ -15,7 +15,7 @@ module.exports = {
 
     },
     tipo:{
-      type: 'string'
+      type: 'string',
       enum: ['agua', 'fuego','tierra','psiquico','hierba','electrico']
     },
     habilidadEspecial: {

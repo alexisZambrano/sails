@@ -11,7 +11,7 @@ module.exports = {
  },
 
  adios: function (req, res) {
-	  retur res.send("Adios desde el controlador");
+	  return res.send("Adios desde el controlador");
  }
 
 };

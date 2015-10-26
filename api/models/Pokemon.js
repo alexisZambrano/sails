@@ -29,7 +29,7 @@ module.exports = {
     fechaVista:{
       type:'date'
     }
-
+//////////////
 
 
   }

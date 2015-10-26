@@ -29,7 +29,10 @@ module.exports = {
     fechaVista:{
       type:'date'
     }
-//////////////
+    habilidades:{
+      collection : 'habilidad',
+      via: 'idPokemon'
+    }
 
 
   }
